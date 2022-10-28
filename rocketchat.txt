@@ -1,4 +1,3 @@
-['"Rocket.Chat" && country="DE"', '"Rocket.Chat" && country="US"', '"Rocket.Chat" && country="RU"', '"Rocket.Chat" && country="FR"', '"Rocket.Chat" && country="CN"', '"Rocket.Chat" && country!="DE" && country!="US" && country!="RU" && country!="FR" && country!="CN"']
 https://chat.nobleprog.com
 https://dd4t.dadesktop.com
 https://egw.gruene-fraktion-berlin.de
